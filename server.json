@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 529.99,
+      "createdAt": "2022-12-11"
+    },
+    {
+      "id": 2,
+      "description": "Garotas de sucesso",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 179.99,
+      "createdAt": "2022-12-06"
+    }
+  ]
+}
