@@ -26,6 +26,22 @@ export const TransactionsTable = styled.table`
       border-bottom-right-radius: 6px;
     }
   }
+
+  th {
+    padding: 1.25rem;
+    background-color: ${({ theme }) => theme['gray-900']};
+    font-size: larger;
+
+    &:first-child {
+      border-top-left-radius: 6px;
+      border-bottom-left-radius: 6px;
+    }
+
+    &:last-child {
+      border-top-right-radius: 6px;
+      border-bottom-right-radius: 6px;
+    }
+  }
 `;
 
 interface PriceHighLightProps {
