@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "description": "GÁs",
+      "description": "Gás",
       "type": "outcome",
       "category": "Básico",
       "price": 125,
@@ -62,6 +62,14 @@
       "type": "outcome",
       "category": "Alimentos",
       "price": 320,
+      "createdAt": "2022-12-06T07:18:56"
+    },
+    {
+      "id": 9,
+      "description": "Netflix",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 39.99,
       "createdAt": "2022-12-06T07:18:56"
     }
   ]
