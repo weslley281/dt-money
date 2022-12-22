@@ -5,7 +5,7 @@
       "description": "Salário",
       "type": "income",
       "category": "Venda",
-      "price": 2450.0,
+      "price": 2450,
       "createdAt": "2022-12-11"
     },
     {
@@ -29,7 +29,7 @@
       "description": "Faculdade",
       "type": "outcome",
       "category": "Estudo",
-      "price": 220.0,
+      "price": 220,
       "createdAt": "2022-12-06"
     },
     {
@@ -71,6 +71,22 @@
       "category": "Lazer",
       "price": 39.99,
       "createdAt": "2022-12-06T07:18:56"
+    },
+    {
+      "description": "Imposto de Renda",
+      "price": 26,
+      "category": "Obrigatório",
+      "type": "outcome",
+      "createdAt": "2022-12-22T01:15:05.770Z",
+      "id": 10
+    },
+    {
+      "description": "INSS",
+      "price": 294,
+      "category": "Obrigatório",
+      "type": "outcome",
+      "createdAt": "2022-12-22T10:38:34.913Z",
+      "id": 11
     }
   ]
 }
