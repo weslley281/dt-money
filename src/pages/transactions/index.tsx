@@ -7,7 +7,6 @@ import { SearchForm } from './components/SearchForm';
 
 import {
   PriceHighlight,
-  //PriceHighlight,
   TransactionsContainer,
   TransactionsTable,
 } from './styles';
